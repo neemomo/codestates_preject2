@@ -4,4 +4,4 @@ simulator: 시뮬레이터
 
 analysis: 분석용 코드
 
-AI_13_신현호.mp4: 발표 
+AI_13_신현호.mp4: 발표 영상
